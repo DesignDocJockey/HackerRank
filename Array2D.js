@@ -5,7 +5,7 @@ const _COLUMNS = 6;
 
 var twoDimensionalArray = new Array();
 
-for(let rowIndex = 0; rowIndex < _ROWS; rowIndex++){
+for(let rowIndex = 0; rowIndex < _ROWS; rowIndex++) {
     twoDimensionalArray[rowIndex] = new Array(_COLUMNS);
 }
 
